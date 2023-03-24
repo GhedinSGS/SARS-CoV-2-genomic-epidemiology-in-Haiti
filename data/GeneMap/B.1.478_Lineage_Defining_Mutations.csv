@@ -1,0 +1,7 @@
+﻿gene,amino_acid_change,nt_change,aapos,ntpos,mutated_amino_acid,mutated_nucleotide
+ORF1b,P314L,C14408T,314,14408,L,T
+S,D614G,G23403A,614,23403,G,A
+ORF3a,Q57H,G25563T/C,57,25563,H,C
+ORF3a,G172D,G25907A,172,25907,D,A
+ORF8,S84L,C28144T,84,28144,L,T
+N,N11I,A28305T,11,28305,I,T
