@@ -108,4 +108,4 @@ final_layout <- cowplot::plot_grid(World_nextstrain_clade_donut + theme(legend.p
 final_layout <- cowplot::plot_grid(final_layout, legend, 
                                    nrow = 2, rel_heights = c(6,1))
 
-ggsave("20240807_fig1b.png", final_layout, units = "in", height = 11, width = 8.5)
+ggsave("20240808_fig1b.pdf", final_layout, units = "in", height = 11, width = 8.5)
